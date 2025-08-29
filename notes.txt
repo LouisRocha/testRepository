@@ -1,0 +1,1 @@
+Random notes for testing non-Java files in the grid.
